@@ -1,0 +1,7 @@
+<library path="lib/libaubo_i10_moveit_kinematic_plugin">
+  <class name="aubo_kinematics/AuboI10KinematicsPlugin" type="aubo_kinematics::AuboKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>
+      Analytic kinematics for the Aubo Robots I10.
+    </description>
+  </class>
+</library>

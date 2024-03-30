@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 
 
   // Define the planning group name
-  static const std::string PLANNING_GROUP = "manipulator_i5";
+  static const std::string PLANNING_GROUP = "manipulator_i10";
 
 
   // Create a planning group interface object and set up a planning group

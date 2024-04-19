@@ -69,5 +69,4 @@ wget http://fishros.com/install -O fishros && . fishros
 ```roslaunch aubo_i10_moveit_config moveit_planning_execution.launch robot_ip:=127.0.0.1```
 
 2.gazebo  
-使用之前先修复这个错误：https://blog.csdn.net/weixin_42237861/article/details/123975426?spm=1001.2014.3001.5502  
 ```roslaunch aubo_gazebo aubo_i10_gazebo_control.launch```
